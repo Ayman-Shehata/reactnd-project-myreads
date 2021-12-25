@@ -6,14 +6,14 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-![img1](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide1.PNG?raw=true)
-![img2](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide2.PNG?raw=true)
-![img3](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide3.PNG?raw=true)
-![img4](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide4.PNG?raw=true)
-![img5](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide5.PNG?raw=true)
-![img6](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide6.PNG?raw=true)
-![img7](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide7.PNG?raw=true)
-![img8](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[master]/preview/Slide8.PNG?raw=true)
+![img1](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide1.PNG?raw=true)
+![img2](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide2.PNG?raw=true)
+![img3](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide3.PNG?raw=true)
+![img4](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide4.PNG?raw=true)
+![img5](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide5.PNG?raw=true)
+![img6](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide6.PNG?raw=true)
+![img7](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide7.PNG?raw=true)
+![img8](https://github.com/Ayman-Shehata/reactnd-project-myreads/blob/916cabbc65f8eee2989a652334fd522b46d8991d/preview/Slide8.PNG?raw=true)
 
 
 
