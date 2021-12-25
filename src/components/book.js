@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import ShelfMenu from "./shelfmenu";
+import ShelfChanger from "./shelfchanger";
 
-export default class BookItem extends Component {
-  
+class BookItem extends Component {
+
   render() {
-   const { bookitem } = this.props;
+   const { book } = this.props;
 
     return (
       <li>
@@ -16,18 +16,19 @@ export default class BookItem extends Component {
                 width: 128,
                 height: 193,
                 backgroundImage: `url(${
-                  bookitem.imageLinks
-                    ? bookitem.imageLinks.thumbnail
+                  book.imageLinks
+                    ? book.imageLinks.thumbnail
                     : "icons/book-placeholder.svg"
                 })`,
               }}
             />
-            <ShelfMenu book={bookitem} onUpdate={this.props.onUpdateBooks} />
+            <ShelfChanger book={book} onUpdateBooks={this.props.onUpdateBooks} />
           </div>
-          <div className="book-title">{bookitem.title}</div>
-          <div className="book-authors">{bookitem.authors}</div>
+          <div className="book-title">{book.title}</div>
+          <div className="book-authors">{book.authors}</div>
         </div>
       </li>
     );
   }
 }
+export default BookItem
