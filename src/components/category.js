@@ -15,13 +15,13 @@ class Category extends Component {
             <h2 className="bookshelf-title">{this.props.categorie}</h2>
             <div className="bookshelf-books">
               <ol className="books-grid">
-                {this.props.books.map((b) => (
+                {this.props.books.map((book) => (
                   <BookItem
-                    key={b.id}
-                    book={b}
+                    key={book.id}
+                    book={book}
                     onUpdateBooks={this.props.onUpdateBooks}
                   />
-                ))}{" "}
+                ))}{"You have not add anybook here"}
               </ol>
             </div>
           </div>

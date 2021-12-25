@@ -1793,6 +1793,14 @@ browser-resolve@^1.11.3:
   dependencies:
     resolve "1.1.7"
 
+browser-router@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/browser-router/-/browser-router-0.2.0.tgz#d9c8b265d14df48887c4b5c0bf9294b35b7915af"
+  integrity sha1-2ciyZdFN9IiHxLXAv5KUs1t5Fa8=
+  dependencies:
+    query-string "~0.1.1"
+    underscore "~1.5.2"
+
 browserify-aes@^1.0.0, browserify-aes@^1.0.4:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/browserify-aes/-/browserify-aes-1.2.0.tgz#326734642f403dabc3003209853bb70ad428ef48"
@@ -7655,6 +7663,11 @@ qs@6.5.2, qs@~6.5.2:
   resolved "https://registry.yarnpkg.com/qs/-/qs-6.5.2.tgz#cb3ae806e8740444584ef154ce8ee98d403f3e36"
   integrity sha512-N5ZAX4/LxJmF+7wN74pUD6qAh9/wnvdQcjq9TZjevvXzSUo7bfmw91saqMjzGS2xq91/odN2dW/WOl7qQHNDGA==
 
+query-string@~0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/query-string/-/query-string-0.1.1.tgz#29b0b212dc8df7782143437e11f88650b07f8d07"
+  integrity sha1-KbCyEtyN93ghQ0N+EfiGULB/jQc=
+
 querystring-es3@^0.2.0:
   version "0.2.1"
   resolved "https://registry.yarnpkg.com/querystring-es3/-/querystring-es3-0.2.1.tgz#9ec61f79049875707d69414596fd907a4d711e73"
@@ -9182,6 +9195,11 @@ uglifyjs-webpack-plugin@^1.2.4:
     uglify-es "^3.3.4"
     webpack-sources "^1.1.0"
     worker-farm "^1.5.2"
+
+underscore@~1.5.2:
+  version "1.5.2"
+  resolved "https://registry.yarnpkg.com/underscore/-/underscore-1.5.2.tgz#1335c5e4f5e6d33bbb4b006ba8c86a00f556de08"
+  integrity sha1-EzXF5PXm0zu7SwBrqMhqAPVW3gg=
 
 unicode-canonical-property-names-ecmascript@^1.0.4:
   version "1.0.4"

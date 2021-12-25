@@ -5,18 +5,13 @@ class BookItem extends Component {
 
   render() {
    const { book } = this.props;
-
     return (
       <li>
         <div className="book">
           <div className="book-top">
             <div
               className="book-cover"
-              style={{
-                width: 128,
-                height: 193,
-                backgroundImage: `url(${
-                  book.imageLinks
+              style={{width: 128, height: 193, backgroundImage: `url(${ book.imageLinks
                     ? book.imageLinks.thumbnail
                     : "icons/book-placeholder.svg"
                 })`,

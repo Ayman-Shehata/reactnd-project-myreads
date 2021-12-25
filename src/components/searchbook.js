@@ -1,4 +1,4 @@
-import React, { Component, useState } from "react";
+import React, { Component } from "react";
 import { Link } from "react-router-dom";
 import * as BooksApi from "../BooksAPI";
 import _ from "lodash";
@@ -40,7 +40,6 @@ class SearchBook extends Component {
     }));
   }
 
-  
   handleKeyDown = () => {
     this.state.query !== "" && this.search(this.state.query);
   };
@@ -59,14 +58,14 @@ class SearchBook extends Component {
               placeholder="Search by title or author"
               value={this.state.query}
               onChange={this.handleChange}
-              onKeyDown={_.debounce(this.handleKeyDown, 400)}
+              // codeit from searching - to wait for part of word or completly word
+              onKeyDown={_.debounce(this.handleKeyDown, 500)}
             />
           </div>
         </div>
         <div className="search-books-results">
           <ol className="books-grid">
-            {query !== "" &&
-              books.length > 0 &&
+            {query !== "" &&  books.length > 0 &&
               this.state.books.map((bookitem) => (
                 <BookItem
                   key={bookitem.id}

@@ -57,7 +57,7 @@ class ShelfChanger extends Component {
             <option value="none">None</option>
           </select>
         </div>
-        <NotificationContainer />
+        {/* <NotificationContainer /> */}
       </div>
     );
   }
