@@ -6,12 +6,14 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-![img1](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![img2](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![img3](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![img4](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![img5](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![img6](https://github.com/[Ayman-shehata]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![img1](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide1.PNG?raw=true)
+![img2](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide2.PNG?raw=true)
+![img3](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide3.PNG?raw=true)
+![img4](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide4.PNG?raw=true)
+![img5](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide5.PNG?raw=true)
+![img6](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide6.PNG?raw=true)
+![img6](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide7.PNG?raw=true)
+![img6](https://github.com/[Ayman-shehata]/[reactnd-project-myreads]/blob/[branch]/preview/Slide8.PNG?raw=true)
 
 
 
