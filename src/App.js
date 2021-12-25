@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import SearchBook from "./components/searchbook";
 import Bookcase from "./components/bookcase";
 import * as BooksAPI from "./BooksAPI";
+import NotFound from "./404.js";
 
 class BooksApp extends React.Component {
   constructor(props) {
@@ -72,6 +73,9 @@ class BooksApp extends React.Component {
               />
             }
           />
+{/* add after udacity great review */}
+<Route path='*' element={<NotFound />} />
+
         </Routes>
       </div>
     );
