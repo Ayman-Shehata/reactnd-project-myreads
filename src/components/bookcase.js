@@ -10,7 +10,7 @@ import { Link } from "react-router-dom";
           <h1>MyReads</h1>
         </div>
         {this.props.categories.map((cat) => (
-          <Category
+            <Category
             categorie={cat.name}
             onUpdateBooks={this.props.onUpdateBooks}
             key={cat.key}
